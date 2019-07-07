@@ -1,2 +1,2 @@
 # python-codes
-Save codes to remember and resume
+This repository is for saving good python codes to remember and resume
